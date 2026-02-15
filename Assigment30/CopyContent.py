@@ -13,6 +13,3 @@ def Checkingfile():
         print(f"{fname} does not exists in the current directory")
 
 Checkingfile()
-        
-
-

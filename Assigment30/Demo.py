@@ -2,5 +2,3 @@
 "Jay Ganesh"
 "Jay Ganesh"
 "Jay Ganesh"
-
-"Jay Ganesh"
